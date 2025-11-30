@@ -1,0 +1,21 @@
+{
+  "name": "invisibone",
+  "displayName": "invisibone",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "invisibone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/invisibone-color-theme.json"
+      }
+    ]
+  }
+}
