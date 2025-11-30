@@ -9,6 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gooish/vscode-invisibone"
+  },
+  "bugs": {
+    "url": "https://github.com/gooish/vscode-invisibone/issues",
+    "email": "elli@ttpk.fi"
+  },
   "contributes": {
     "themes": [
       {
